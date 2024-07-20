@@ -1,0 +1,3 @@
+* ott-debug
+ott-debug is an emacs comint-mode based REPL that pretty-prints [[https://github.com/ott-lang/ott][ott's]] multiple parse errors.
+The project is still a *Work In Progress!*
